@@ -139,7 +139,10 @@ date and the updated version will be effective assoon as it is accessible. If we
 8. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 If you have questions or comments about this notice, you may:
 
-email us at: [gpc.dev.acc@gmail.com or]
+email us at:
+gpc.dev.acc@gmail.com
+
+or
 
 contact us by post at:
 Dakahliya, Mansoura, Aga, Egypt
