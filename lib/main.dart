@@ -300,7 +300,7 @@ class _CalculatorState extends State<Calculator> {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Text(
-                              '${sell.toStringAsFixed(1)}',
+                              sell.toStringAsFixed(1),
                               style: const TextStyle(
                                 fontSize: 21.0,
                                 color: Color(0xffcacaca),
@@ -345,7 +345,7 @@ class _CalculatorState extends State<Calculator> {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Text(
-                              '${profit.toStringAsFixed(1)}',
+                              profit.toStringAsFixed(1),
                               style: const TextStyle(
                                 fontSize: 21.0,
                                 color: Color(0xffcacaca),
@@ -382,7 +382,7 @@ class _CalculatorState extends State<Calculator> {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Text(
-                              '${discount.toStringAsFixed(1)}',
+                              discount.toStringAsFixed(1),
                               style: const TextStyle(
                                 fontSize: 21.0,
                                 color: Color(0xffcacaca),
